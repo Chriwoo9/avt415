@@ -1,0 +1,16 @@
+h1{
+font-family: "TeX Gyre Adventor", sans-serif;
+font-size: 50px; background: rgba(0, 128, 0, 0.3);
+}
+h2{
+font-family: "TeX Gyre Adventor", sans-serif;
+font-size: 30px;
+}
+h4{
+font-family: "TeX Gyre Adventor", sans-serif;
+font-size: 20px;
+}
+div{
+  font-family: "TeX Gyre Adventor", sans-serif;
+  font-size: 20px; background: rgba(0, 128, 0, 0.3);
+}
