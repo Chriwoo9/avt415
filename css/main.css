@@ -1,5 +1,6 @@
 h1{
-font-family: "TeX Gyre Adventor", sans-serif;
+font-family: "font-family: 'Bellota', cursive;"
+font-family: 'Plus Jakarta Sans', sans-serif;
 font-size: 50px; background: rgba(0, 128, 0, 0.3);
 }
 h2{
@@ -13,7 +14,4 @@ font-size: 20px;
 div{
   font-family: "TeX Gyre Adventor", sans-serif;
   font-size: 20px; background: rgba(0, 128, 0, 0.3);
-}
-body {
-  background-image: url("gridpattern.jpg");
 }
