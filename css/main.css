@@ -1,21 +1,21 @@
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Darumadrop+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gaegu:wght@400;700&display=swap');
 </style>
 
 
 h1{
-font-family: 'Darumadrop One', cursive;
+font-family: 'Gaegu', cursive; font-weight: 400;
 font-size: 50px; background: rgba(0, 128, 0, 0.3);
 }
 h2{
-font-family: 'Darumadrop One', cursive;
+  font-family: 'Gaegu', cursive;
 font-size: 30px;
 }
 h4{
-font-family: 'Darumadrop One', cursive;
+  font-family: 'Gaegu', cursive;
 font-size: 20px;
 }
 div{
-  font-family: 'Darumadrop One', cursive;
+  font-family: 'Gaegu', cursive;
   font-size: 20px; background: rgba(0, 128, 0, 0.3);
 }
