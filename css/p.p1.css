@@ -1,8 +1,10 @@
 @charset "UTF-8";
 
+html {font-size: 100%;}
+
 body{
-	font-family: 'Quicksand', sans-serif;
-	background: rgba(0, 128, 0, 0.3)
+font-family: 'Quicksand', sans-serif;
+background: rgba(0, 128, 0, 0.3);
 }
 
 h1{
