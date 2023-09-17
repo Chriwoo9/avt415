@@ -1,10 +1,8 @@
 @charset "UTF-8";
 
-html{
-	background-color: rgb(0, 128, 0, 0.3);
-	font-family: 'Quicksand'; sans-serif;
-	color: rgb(185, 234, 218, 1);
-	font-size: 30px;
+body{
+	font-family: 'Quicksand', sans-serif;
+	background: rgba(0, 128, 0, 0.3)
 }
 
 h1{
