@@ -2,12 +2,12 @@
 
 body{
 font-family: 'Quicksand', sans-serif;
-background: #edede9;
+background-color: #edede9;
 }
 
 h1{
 font-family: 'Quicksand', sans-serif;
-font-weight: 500;
+font-weight: bold;
 font-size: 30px;
 background-color: #a2d2ff;
 color: #edede9;
