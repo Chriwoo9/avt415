@@ -12,29 +12,40 @@ font-weight: bold;
 font-size: 40px;
 border: #a2d2ff;
 border-radius: 25px;
-margin: 20px;
-padding: 40px;
+margin: 10px;
+padding: 20px;
 background-color: #a2d2ff;
 color: #edede9;
 }
 
 h2{
 font-family: 'Quicksand', sans-serif;
-font-weight: 500;
+font-weight: bold;
 font-size: 25px;
-color: #edede9
+border: #a2d2ff;
+border-radius: 25px;
+margin: 10px;
+padding: 20px;
+background-color: #a2d2ff;
+color: #edede9;
 }
 
 h4{
 font-family: 'Quicksand', sans-serif;
-font-weight: 500;
-font-size: 20px;
+font-weight: bold;
+font-size: 30px;
 color: #a2d2ff;
+margin-left: 10px;
 }
 
 div{
 font-family: 'Quicksand', sans-serif;
 font-weight: 400;
-font-size: 20px; background-color: #a2d2ff;
-color: #edede9
+font-size: 20px;
+border: #a2d2ff;
+border-radius: 25px;
+margin: 10px;
+padding: 20px;
+background-color: #a2d2ff;
+color: #edede9;
 }
