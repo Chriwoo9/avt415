@@ -10,8 +10,11 @@ h1{
 font-family: 'Quicksand', sans-serif;
 font-weight: bold;
 font-size: 40px;
+border: #a2d2ff;
+border-radius: 25px;
+margin: 20px;
+padding: 40px;
 background-color: #a2d2ff;
-background-size: 80px 80px;
 color: #edede9;
 }
 
