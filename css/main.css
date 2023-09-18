@@ -3,15 +3,14 @@
 
 body{
 font-family: 'Quicksand', sans-serif;
-background-color: #fefae0;
-color: white;
+background-color: rgba(0, 128, 0, 0.3)
 }
 
 h1{
 font-family: 'Quicksand', sans-serif;
 font-weight: bold;
 font-size: 40px;
-background-color: #a2d2ff;
+background-color: #ccd5ae;
 background-size: 80px 80px;
 }
 
@@ -30,5 +29,5 @@ font-size: 20px;
 div{
 font-family: 'Quicksand', sans-serif;
 font-weight: 400;
-font-size: 20px; background-color: #bde0fe;
+font-size: 20px; background-color: #606c38;
 }
