@@ -3,31 +3,35 @@
 
 body{
 font-family: 'Quicksand', sans-serif;
-background-color: rgba(0, 128, 0, 0.3)
+background-color: #edede9;
 }
 
 h1{
 font-family: 'Quicksand', sans-serif;
 font-weight: bold;
 font-size: 40px;
-background-color: #ccd5ae;
+background-color: #a2d2ff;
 background-size: 80px 80px;
+color: #edede9;
 }
 
 h2{
 font-family: 'Quicksand', sans-serif;
 font-weight: 500;
 font-size: 25px;
+color: #edede9
 }
 
 h4{
 font-family: 'Quicksand', sans-serif;
 font-weight: 500;
 font-size: 20px;
+color: #a2d2ff;
 }
 
 div{
 font-family: 'Quicksand', sans-serif;
 font-weight: 400;
-font-size: 20px; background-color: #606c38;
+font-size: 20px; background-color: #a2d2ff;
+color: #edede9
 }
