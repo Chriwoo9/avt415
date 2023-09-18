@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+html{
+	background-color: #edede9;
+	font-family: 'Quicksand';
+	color: #a2d2ff;
+	font-size: 30px;
+	margin-top: 70px;
+	margin-bottom: 100px;
+	margin-right: 80px;
+	margin-left: 80px;
+}
+
+
+body{
+font-family: 'Quicksand', sans-serif;
+font-weight: bold;
+font-size: 30px;
+text-align: left;
+border: #a2d2ff;
+border-radius: 25px;
+margin: 20px;
+padding: 40px;
+background-color: #a2d2ff;
+color: #edede9;
+}
+
+h1{
+font-family: 'Quicksand', sans-serif;
+font-weight: bold;
+font-size: 40px;
+text-decoration: underline;
+text-decoration-style: double;
+}
+
+h2{
+font-family: 'Quicksand', sans-serif;
+font-weight: bold;
+font-size: 30px;
+text-decoration: underline;
+
+}
+
+h3{
+font-family: 'Quicksand', sans-serif;
+font-weight: bold;
+font-size: 30px;
+}
+
+p{
+font-family: 'Quicksand', sans-serif;
+font-weight: 500;
+font-size: 20px;
+}
