@@ -1,0 +1,61 @@
+@charset "UTF-8";
+
+@media (min-width: 48rem) {
+  h1 {
+    font-size: 2em;
+  }
+  h2 {
+    font-size: 1.5em;
+  }
+  p {
+    font-size: 1em;
+  }
+}
+
+html {
+  font-size: clamp(1rem, 0.75rem + 1.5vw, 2rem);
+}
+
+.olivegreen-text {
+      color: #556B2F;
+   }
+
+body{
+  font-family: "sauna-new", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  margin: 50px;
+  padding: 50px;
+}
+
+h1{
+  font-family: "sauna-swash-new", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+  font-size: calc(3rem + 1.5vw);
+  line-height: .9em;
+}
+
+p{
+  font-family: "sauna-new", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: calc(.25rem + 1.5vw);
+}
+
+h2{
+  font-family: "sauna-new", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: calc(.25rem + 1.5vw);
+  margin-bottom: 3em;
+}
+
+h3{
+  font-family: "sauna-new", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: calc(1rem + 1.5vw);
+  margin-bottom: .25em;
+  line-height: .9em;
+}
